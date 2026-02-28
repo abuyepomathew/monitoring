@@ -1,0 +1,8 @@
+# Ignore appliance data file
+appliances.txt
+
+# Ignore build artifacts
+*.exe
+*.o
+*.obj
+*.log
